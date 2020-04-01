@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: PatentPublicData.jar
+Main-Class: com.clearbox.Main
+

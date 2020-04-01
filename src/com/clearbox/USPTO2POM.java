@@ -44,7 +44,7 @@ public class USPTO2POM implements RecordProcessor {
 
     @Override
     public void initialize(Writer writer) throws IOException {
-        System.err.println("--- START ---");
+        //System.err.println("--- START ---");
     }
 
     @Override
@@ -67,7 +67,7 @@ public class USPTO2POM implements RecordProcessor {
 
     @Override
     public void finish(Writer writer) throws IOException {
-        System.err.println("--- DONE ---");
+        //System.err.println("--- DONE ---");
     }
 
 }
